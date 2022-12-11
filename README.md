@@ -1,7 +1,6 @@
-# <div align="center">💻Yasin Ramazan GOK💻</div>  
+<div align="center">💻Yasin Ramazan GOK💻</div>  
   
-
-## <div align="center">"On the way of software development!"</div>  
+<div align="center">"On the way of software development!"</div>  
   
 
 <div align="center">
