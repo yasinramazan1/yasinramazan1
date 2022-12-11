@@ -38,7 +38,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinramazan1&hide_border=true&layout=compact" align="center" /></div>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lz464232cvm53e2d2i6ht6lsr4&cover_image=true&theme=default&show_offline=false&background_color=0d0d0d&bar_color=53b14f&bar_color_cover=true" /></div>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yasinramazan1&&style=flat-square" align="center" />
