@@ -1,6 +1,6 @@
-<div align="center">💻Yasin Ramazan GOK💻</div>  
+# <div align="center">💻Yasin Ramazan GOK💻</div>  
   
-<div align="center">"On the way of software development!"</div>  
+## <div align="center">"On the way of software development!"</div>  
   
 
 <div align="center">
@@ -16,7 +16,7 @@
 </div>  
   
 
-- <div align="center">I'm a software engineering student at Elazig Firat University, Faculty of Technology, Department of Software Engineering since 2020 🚀</div>  
+- ### <div align="center">I'm a software engineering student at Elazig Firat University, Faculty of Technology, Department of Software Engineering since 2020 🚀</div>  
   
 
 - 💻⌨️🖱️💾  I’m currently learning C# and .NET Framework.  
